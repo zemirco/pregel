@@ -1,0 +1,25 @@
+{
+  "name": "pregel",
+  "version": "1.0.0",
+  "description": "HTML / SVG graph library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zemirco/pregel.git"
+  },
+  "keywords": [
+    "HTML",
+    "SVG",
+    "graph",
+    "library"
+  ],
+  "author": "Mirco Zeiss <mirco.zeiss@hbm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zemirco/pregel/issues"
+  },
+  "homepage": "https://github.com/zemirco/pregel"
+}
